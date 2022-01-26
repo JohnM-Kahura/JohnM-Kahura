@@ -19,4 +19,5 @@ Skills: PYTHON / DJANGO/FLUTTER/REACT/HTML
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JohnM-Kahura)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JohnM-Kahura)  
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
