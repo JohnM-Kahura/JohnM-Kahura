@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is John Mungai
 #### I am a Backend Developer
-![I am a Backend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Backend Developer](https://github.com/JohnM-Kahura/JohnM-Kahura/blob/main/flutter%26pyhton.png)
 
 I am a John and I enjoy working with Flutter and Python. I have built many projects with Flutter as the Frontend and Django as the backend. I have a great understanding of data structures and algorithms with Python. I am currently learning React and hope I will be a Full stack developer in the coming months
 
