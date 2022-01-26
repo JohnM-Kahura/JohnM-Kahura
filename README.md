@@ -6,8 +6,7 @@ I am a John and I enjoy working with Flutter and Python. I have built many proje
 
 Skills: PYTHON / DJANGO/FLUTTER/REACT/HTML
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React, Web 3 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JohnM-Kahura)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/JMKahura)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://johnmungai.netlify.app/)  
@@ -15,9 +14,9 @@ Skills: PYTHON / DJANGO/FLUTTER/REACT/HTML
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnM-Kahura)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnM-Kahura&show_icons=true)  
-
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JohnM-Kahura)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JohnM-Kahura)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JohnM-Kahura)  
+
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=JohnM-Kahura)](https://github.com/JohnM-Kahura/github-readme-stats)
 
