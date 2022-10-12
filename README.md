@@ -1,8 +1,10 @@
 ### Hi there 👋, My name is John Mungai
 #### I am a Software Engineer
-![I am a FlullStack Mobile Developer](https://github.com/JohnM-Kahura/JohnM-Kahura/blob/main/flutter%26pyhton.png)
+![I am a FlullStack Mobile and Web Developer](https://github.com/JohnM-Kahura/JohnM-Kahura/blob/main/flutter%26pyhton.png)
 
-I enjoy working with Flutter and Python. I have built many projects with Flutter and React as the Frontend and Django as the backend. I have a great understanding of data structures and algorithms with Python.
+I enjoy working with Python and Flutter. I have built many projects with React and Flutter as the Frontend and Django as the backend. I have a great understanding of data structures and algorithms with Python.
+I am a Natural language Processing geek and I have a number of NLP projects in my bag.
+I am also a Legal Tech Enthusiast and I try to use NLP o make Legal Advice more accessible
 
 Skills: PYTHON / DJANGO/FLUTTER/REACT/HTML/FIREBASE/SUPABASE
 
