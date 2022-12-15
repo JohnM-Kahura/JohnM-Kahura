@@ -49,8 +49,7 @@
 <a href="johnmungai392@gmail.com"><img src="https://img.shields.io/badge/-johnmungai392@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 <!-- ![Twitter URL](https://img.shields.io/twitter/url?style=social) -->
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://twitter.com/JMKahura"><img src="https://img.shields.io/badge/-@JMKahura-BD081C?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 
 -----
