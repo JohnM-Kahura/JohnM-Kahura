@@ -47,12 +47,10 @@
 
 <a href="https://www.linkedin.com/in/john-kahura-50452b1a4/"><img src="https://img.shields.io/badge/-John%20Kahura%20Mungai-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="johnmungai392@gmail.com"><img src="https://img.shields.io/badge/-johnmungai392@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
-<!-- ![Twitter URL](https://img.shields.io/twitter/url?style=social) -->
 <a href="https://twitter.com/JMKahura"><img src="https://img.shields.io/badge/-@JMKahura-BD081C?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 
------
 
 
-Last Edited on: 11/12/2020
+
+
