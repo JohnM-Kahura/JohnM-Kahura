@@ -9,7 +9,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I studied at the University of Eastern Africa Baraton.\
 🌱 &nbsp;Every day I keep on suprising myself since I have really grown alot..\
-✍️ &nbsp;In my free time, I write some NLP code and watch documentaries\
+✍️ &nbsp;In my free time, I try to keep up with space news and facinating experiments that are being carried out in the world\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at johnmungai392@gmail.com ! .\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1hDYJz46OmL16nDknd2gPKVmpEkpvA_f0/view) for more details about me. I'm open to feedback and suggestions!
