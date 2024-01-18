@@ -10,7 +10,7 @@
 🎓 &nbsp;I studied at the University of Eastern Africa Baraton.\
 🌱 &nbsp;Every day I keep on suprising myself since I have really grown alot..\
 ✍️ &nbsp;In my free time, I try to keep up with space news and facinating experiments that are being carried out in the world\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+💬 &nbsp;Feel free to reach out  for a consult .\
 ✉️ &nbsp;You can shoot me an email at johnmungai392@gmail.com ! .\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1-3PTYHyCy58jDT80IWx1vWZLMKoMQ563/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
